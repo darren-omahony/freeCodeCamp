@@ -4,7 +4,6 @@ Step 1 : Install freeCodeCamp properly on your system.
 
 Step 2 : Install the curriculum server and the current package.
 
-Step 3 : The prepare script will take care of the rest.
 
 ```sh
 cd ../curriculum-server
@@ -41,3 +40,8 @@ redirects you to
 http://localhost:8000/learn/responsive-web-design/applied-accessibility/jump-straight-to-the-content-using-the-main-element/587d774e367417b2b2512a9f
 
 but not all paths behave as desired.
+
+adding this note here
+
+
+more changes....
