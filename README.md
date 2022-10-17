@@ -178,9 +178,6 @@ We appreciate responsible disclosure of vulnerabilities that might impact the in
 
 > #### [Read our security policy and follow these steps to report a vulnerability](https://contribute.freecodecamp.org/#/security).
 
-### Contributing
-
-The freeCodeCamp.org community is possible thanks to thousands of kind volunteers like you. We welcome all contributions to the community and are excited to welcome you aboard.
 
 > #### [Please follow these steps to contribute](https://contribute.freecodecamp.org).
 
