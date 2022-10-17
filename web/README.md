@@ -4,7 +4,6 @@ Step 1 : Install freeCodeCamp properly on your system.
 
 Step 2 : Install the curriculum server and the current package.
 
-Step 3 : The prepare script will take care of the rest.
 
 ```sh
 cd ../curriculum-server
