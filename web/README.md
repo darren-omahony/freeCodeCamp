@@ -42,3 +42,6 @@ http://localhost:8000/learn/responsive-web-design/applied-accessibility/jump-str
 but not all paths behave as desired.
 
 adding this note here
+
+
+more changes....
