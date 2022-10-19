@@ -174,3 +174,7 @@ The content of this repository is bound by the following licenses:
 - The learning resources in the [`/curriculum`](/curriculum) directory including their subdirectories thereon are licensed under the [CC-BY-SA-4.0](/curriculum/LICENSE.md) license.
 
 mememememee
+adding this comment
+forgot to add this
+
+- I actaully think we need to add this
